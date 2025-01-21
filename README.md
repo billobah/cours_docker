@@ -4,11 +4,15 @@ This project demonstrates how to set up a simple FastAPI application with Docker
 
 ## Project Structure
 
-. └── app/
+└── app/
+
 ├── Dockerfile # Docker configuration file to containerize the application
-├── main.py # FastAPI application code
-├── requirements.txt # Project dependencies
-└── data/ # Directory to store the downloaded CSV file
+
+├── main.py  # FastAPI application code  
+
+├── requirements.txt  # Project dependencies  
+
+└── data/  # Directory to store the downloaded CSV file  
 
 ## Features
 
